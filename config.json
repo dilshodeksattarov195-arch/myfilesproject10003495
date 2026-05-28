@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvecrypt",
+        "uuid": 5413755,
+        "checksum": "iq4b4b"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
